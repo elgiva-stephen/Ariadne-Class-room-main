@@ -1,12 +1,13 @@
 @viewport {
+ elgiva-stephen-patch-2
     width: device-width;
 }
-
 
 /*
 Author:   Elgiva Stephen.
 Title:    CSS Document
 */
+elgiva-stephen-patch-2
 
 h1,
 h2,
@@ -334,3 +335,6 @@ body {
         width: 85%;
     }
 }
+
+
+
